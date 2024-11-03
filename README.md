@@ -1,4 +1,4 @@
-# AI and Blockchain Based Content Verification Platform
+# AI and Blockchain Based Content Verification Platform.
 Content Verification Platform is a powerful React-based application that leverages TensorFlow.js and deep learning to detect manipulated or synthetic images. This tool utilizes a pre-trained neural network model to analyze images and determine their authenticity with a confidence score.
 ![image](https://github.com/user-attachments/assets/2607dcbe-5919-4092-b8f6-10819c2423dd)
 ![image](https://github.com/user-attachments/assets/3013b003-b695-4e3e-bc53-dfe7afb3e5e5)
