@@ -3,7 +3,7 @@ Content Verification Platform is a powerful React-based application that leverag
 ![image](https://github.com/user-attachments/assets/2607dcbe-5919-4092-b8f6-10819c2423dd)
 ![image](https://github.com/user-attachments/assets/3013b003-b695-4e3e-bc53-dfe7afb3e5e5)
 ![image](https://github.com/user-attachments/assets/288134f7-83fc-4ba8-80cc-3142be7692ff)
-Key Features:
+Key Features:-
 
 Real-time image analysis using TensorFlow.js
 Browser-based processing without server dependencies
